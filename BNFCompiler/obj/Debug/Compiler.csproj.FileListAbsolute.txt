@@ -1,0 +1,13 @@
+C:\workspace\bnf-compiler\BNFCompiler\bin\Debug\BNFCompiler.exe.config
+C:\workspace\bnf-compiler\BNFCompiler\bin\Debug\BNFCompiler.exe
+C:\workspace\bnf-compiler\BNFCompiler\bin\Debug\BNFCompiler.pdb
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\Analisador.CompilerForm.resources
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\Analisador.Forms.FirstForm.resources
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\Analisador.Forms.FollowForm.resources
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\Analisador.Forms.TablesForm.resources
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\BNFCompiler.Properties.Resources.resources
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\BNFCompiler.exe
+C:\workspace\bnf-compiler\BNFCompiler\obj\Debug\BNFCompiler.pdb
